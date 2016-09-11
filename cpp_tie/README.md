@@ -1,4 +1,4 @@
-Trying to implement cpp tie function. Playing with tempaltes.
+Trying to implement cpp::tie function. Playing with tempaltes.
 http://en.cppreference.com/w/cpp/utility/tuple/tie
 
 std::tie allows you to conveniently unpack values from compound types into local vars in one line like so:
